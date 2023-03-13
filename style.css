@@ -1,0 +1,204 @@
+
+
+
+.box{
+  background-image:url(./BGimage.jpg) ;
+  height:100% ;
+  background-size: cover;
+  border: 3mm ridge rgba(103, 247, 6, 0.733);
+  padding: 0px;
+  margin: 0px;
+}
+ 
+
+.box1{
+  background-color: black;
+  border: 5px solid red;
+  border-radius: 20px;
+  text-align: center;
+  color: aqua;
+  width: 300px;
+  position: relative;
+  top: 40px;
+  left: 10px;
+  padding: 15px;
+  height: 80px;
+}
+
+.box2{
+  background-color: black;
+  border: 5px solid red;
+  border-radius: 60px;
+  text-align: center;
+  color: aqua;
+  width: 30%;
+  position: relative;
+  bottom: 70px;
+  left: 220px;
+  padding: 10px;
+
+}
+
+.box3{
+  background-color: black;
+  border: 5px solid red;
+  border-radius: 20px;
+  text-align: center;
+  color: aqua;
+  width: 360px;
+  position: relative;
+  bottom: 170px;
+  left: 1020px;
+}
+
+.box4{
+   position: absolute;
+   top: 280px;
+   right: 50px;
+   background-color: aquamarine;
+   border: 5px dashed red;
+   padding: 5px;
+   width: 350px;
+   height: 550px;
+   text-align: center;
+   margin-right: 300px;
+}
+
+.box5{
+  background-color: cadetblue;
+  border: 5px solid rgba(30, 6, 101, 0.733);
+  border-radius: 50%;
+  text-align: center ;
+  color: black;
+  width: 220px;
+  height: 195px;
+  padding: 50px;
+  margin: 25px;
+
+}
+
+.cl{
+  width: 312px;
+  margin-left: -46px;
+  
+}  
+
+.cd{
+  width: 326px;
+  margin-left: -54px;
+  
+}
+
+.ab{
+width: 314px;
+text-decoration: underline;
+margin-left:-50px;
+}
+      
+   
+ 
+
+ .menu{ 
+  border: 10px solid red ;
+  background-color: black;
+  padding: 20px;
+  text-align: center;
+  color: aqua;
+  border-radius: 40px;
+  width: 30%;
+margin-top: 260px;
+margin-left: 500px;
+ }
+
+ 
+.Staters{
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 40px;
+  margin-right: 135px;
+  justify-content: space-between;
+}
+
+
+  .div1{
+    background-color: rgb(94, 30, 171);
+    border: 10px solid black;
+    text-align: center;
+    padding: 20px;
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+    border-radius: 20px;
+    color: chartreuse;
+    margin-left:95px;
+ }
+
+ .div2{
+   background-color:rgb(94, 30, 171);
+   border: 10px solid black;
+   text-align: center;
+   padding: 20px;
+   width: 250px;
+   height: 250px;
+   margin: 10px;
+   border-radius: 20px;
+   color: chartreuse;
+   margin-left: 15px;
+ }
+
+ .div3{
+   background-color: rgb(94, 30, 171);
+   border: 10px solid black;
+   text-align: center;
+   padding: 20px;
+   width: 250px;
+   height: 250px;
+   margin: 10px;
+   border-radius: 20px;
+   color: chartreuse;
+   margin-left: 10px;
+   
+ }
+
+ .div4{
+   background-color: rgb(94, 30, 171);
+   border: 10px solid black;
+   text-align: center;
+   padding: 20px;
+   width: 250px;
+   height: 250px;
+   margin: 10px;
+   border-radius: 20px;
+   color: chartreuse;
+   position: relative;
+   top: 2px;
+   right:-85px;
+ }
+
+ .div5{
+  background-color: rgb(94, 30, 171);
+  border: 10px solid black;
+  text-align: center;
+  padding: 20px;
+  width: 250px;
+  height: 250px;
+  margin: 10px;
+  border-radius: 20px;
+  color: chartreuse;
+  position: relative;
+  top:2px ;
+  right:-45px;
+  
+ }
+
+ .div6{
+   background-color: rgb(94, 30, 171);
+   border: 10px solid black;
+   text-align: center;
+   padding: 20px;
+   width: 250px;
+   height: 250px;
+   margin: 10px;
+   border-radius: 20px;
+   color: chartreuse;
+ }
